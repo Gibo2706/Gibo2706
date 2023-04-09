@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-  - 🔭 I'm currently working on SleepTracking app for android
-  - 🌱 I’m currently learning web development
+  - 🔭 I'm currently working on Planner app for android
   - 📫 How to reach me: bogdan.markovic2706@gmail.com
+  - 👯 I’m looking to collaborate on some android projects
 
 <!--
 **Gibo2706/Gibo2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
