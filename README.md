@@ -21,3 +21,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gibo2706"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gibo2706" /></a></p><br><br>
+
+<hr>
+
+![gibo2706's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gibo2706&theme=vue-dark&hide_border=true)
+
+![gibo2706's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gibo2706&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
