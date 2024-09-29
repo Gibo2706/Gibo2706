@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 <h3 align="center">A passionate Android and backend developer from Serbia</h3>
 
-- 🔭 I’m currently working on [Quotes app](https://github.com/Gibo2706/QuoteApp)
+- 🔭 I’m currently working on Personal site
 
 - 🌱 I’m currently learning **Angular**
 
