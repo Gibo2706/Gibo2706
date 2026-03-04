@@ -80,13 +80,9 @@ Spring Boot. Experienced in both frontend UI/UX and robust backend architectures
   <a href="https://github.com/Gibo2706/giboworks-site">
     <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gibo2706&repo=giboworks-site&theme=tokyonight&hide_border=true" alt="giboworks-site" />
   </a>
-  <a href="https://github.com/Gibo2706/TravelAgency">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gibo2706&repo=TravelAgency&theme=tokyonight&hide_border=true" alt="TravelAgency" />
-  </a>
 </p>
 
 - **giboworks-site:** Next.js + Sanity terminal portfolio.
-- **TravelAgency:** Android app with Google Maps & Firebase.
 
 ## 🎯 Directives
 
