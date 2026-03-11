@@ -101,6 +101,8 @@ Spring Boot. Experienced in both frontend UI/UX and robust backend architectures
   <a href="mailto:bogdan.markovic2706@gmail.com">
     <img src="https://img.shields.io/badge/Email-bogdan.markovic2706%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+  <a href="https://buymeacoffee.com/gibo2706">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+  </a>
 </p>
 
